@@ -37,7 +37,66 @@ marked ~strikeout~ = done
 - [ ] Graphs
 - [ ] Maps & LRU
 
+### computer architecture - princeton university
+- [ ] ~Week 1 - Introduction, ISA and Microcode | Pipelining Review~
+- [x] Week 2 - Cache Review | Superscalar 1
+- [ ] Week 3 - Superscalar 2 & Exceptions | Superscalar 3 
+- [ ] Week 4 - Superscalar 4 | VLIW 1
+- [ ] Week 5 - VLIW 2 | Branch Prediction
+- [ ] Week 6 - Advanced Caches 1 | Advanced Caches 2
+- [ ] Week 7 - Memory Protection | Vector Processors and GPUs
+- [ ] Week 8 - Multithreading | Parallel Programming 1
+- [ ] Week 9 - Parallel Programming 2 | Small multiprocessors
+- [ ] Week 10 - Multiprocessor interconnect 1 | Multiprocessor interconnect 2
+- [ ] Week 11 - Large multiprocessors (Directory Protocols)
+
 ## books am reading
+[Modern Processor Design - Fundamentals of Superscalar processors](https://www.amazon.com/Modern-Processor-Design-Fundamentals-Superscalar/dp/1478607831)
+- [ ] ~Chap 1 - Processor Design~
+- [x] Chap 2 - Pipelined Processors
+- [ ] Chap 3 - Memory and I/O Systems
+- [ ] Chap 4 - Superscalar Organization
+- [ ] Chap 5 - Superscalar Techniques
+- [ ] Chap 6 - The PowerPC 620
+- [ ] Chap 7 - Intel's P6 Microarchitecture
+- [ ] Chap 8 - Survey of superscalar processors
+- [ ] Chap 9 - Advanced instruction flow techniques
+- [ ] Chap 10 - Advancedr register data flow techiniques
+- [ ] Chap 11 - Executing multiple threads 
+
+[Discrete mathematics and its applications](https://www.amazon.com.br/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0073383090)
+- [x] Chap 1 - The foundations: logic and proofs
+- [ ] Chap 2 - Basic structures: sets, functions, sequences, sums and matrices
+- [ ] Chap 3 - Algorithms
+- [ ] Chap 4 - Number theory and cryptography
+- [ ] Chap 5 - Induction and Recursion
+- [ ] Chap 6 - Counting
+- [ ] Chap 7 - Discrete probability
+- [ ] Chap 8 - Advanced counting techniques
+- [ ] Chap 9 - Relations
+- [ ] Chap 10 - Graphs
+- [ ] Chap 11 - Trees
+- [ ] Chap 12 - Boolean algebra
+- [ ] Chap 13 - Modeling computation
+
+**Appendixes**
+- [ ] 1 - Axioms for the Real Numbers and the Positive Integers
+- [ ] 2 - Exponential and logarithmic functions
+- [ ] 3 - Pseudocode
+
+**Suggested Readings B-1**
+
+[Digital Design Principles and Practices](https://www.amazon.com.br/Digital-Design-Principles-John-Wakerly/dp/0131863894)
+- [ ] Chap 1 - Introduction
+- [ ] Chap 2 - Number Systems and Codes
+- [ ] Chap 3 - Digital Circuits
+- [ ] Chap 4 - Combinational logic design principles
+- [ ] Chap 5 - Combinational logic design pratices
+- [ ] Chap 6 - Combinational design examples
+- [ ] Chap 7 - Sequential logic design principles
+- [ ] Chap 8 - Sequential logic design practices
+- [ ] Chap 9 - Sequential design examples
+
 [Hacking: the art of exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
 - [ ] ~Chap 0x100 - Intro~
 - [ ] ~Chap 0x200 - Programming~
@@ -104,6 +163,16 @@ marked ~strikeout~ = done
 - [ ] ~A - Deciphering Code Structures~
 - [ ] ~B - Understanding Compiled Arithmetic~ 
 - [ ] ~C - Deciphering Program Data~
+
+[Practical Reverse Engineering](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315)
+- [ ] ~Chap 1 - x86 and x64~
+- [x] Chap 2 - ARM
+- [ ] Chap 3 - The Windows Kernel
+- [ ] Chap 4 - Debugging and Automation
+- [ ] Chap 5 - Obfuscation
+
+**Appendix**
+- [ ] Sample names and corresponding SHA1 hashes
 
 [The Shellcoder's Handbook](https://www.amazon.com.br/Shellcoders-Handbook-Discovering-Exploiting-Security/dp/047008023X/ref=asc_df_047008023X/?tag=googleshopp00-20&linkCode=df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=2539455157607613244&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9047761&hvtargid=pla-642275507272&psc=1)<br>
 **Part I - Intro to exploitation: Linux x86**
